@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo BADABING, BADABONG! >&2
